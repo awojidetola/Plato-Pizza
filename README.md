@@ -1,0 +1,1 @@
+1. What is the quantity of Pizzas ordered by Size?
